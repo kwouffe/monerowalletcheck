@@ -1,0 +1,22 @@
+{"wallets" :
+  [
+    {
+      "wallet_addr":"45bbP2muiJHD8Fd5tZyPAfC2RsajyEcsRVVMZ7Tm5qJjdTMprexz6yQ5DVQ1BbmjkMYm9nMid2QSbiGLvvfau7At5V18FzQ",
+      "tags":[
+        "Smominru"
+      ]
+    },
+    {
+      "wallet_addr":"47Tscy1QuJn1fxHiBRjWFtgHmvqkW71YZCQL33LeunfH4rsGEHx5UGTPdfXNJtMMATMz8bmaykGVuDFGWP3KyufBSdzxBb2",
+      "tags":[
+        "Smominru"
+      ]
+    },
+    {
+      "wallet_addr":"43Lm9q14s7GhMLpUsiXY3MH6G67Sn81B5DqmN46u8WnBXNvJmC6FwH3ZMwAmkEB1nHSrujgthFPQeQCFPCwwE7m7TpspYBd",
+      "tags":[
+        "Smominru"
+      ]
+    }
+  ]
+}
