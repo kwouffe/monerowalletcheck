@@ -17,6 +17,18 @@
       "tags":[
         "Smominru"
       ]
+    },
+    {
+      "wallet_addr":"44XT4KvmobTQfeWa6PCQF5RDosr2MLWm43AsaE3o5iNRXXTfDbYk2VPHTVedTQHZyfXNzMn8YYF2466d3FSDT7gJS8gdHAr",
+      "tags":[
+        "ADB.miner"
+      ]
+    },
+    {
+      "wallet_addr":"46CJt5F7qiJiNhAFnSPN1G7BMTftxtpikUjt8QXRFwFH2c3e1h6QdJA5dFYpTXK27dEL9RN3H2vLc6eG2wGahxpBK5zmCuE",
+      "tags":[
+        "Wannamine"
+      ]
     }
   ]
 }
