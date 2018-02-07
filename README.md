@@ -19,7 +19,8 @@ From https://www.proofpoint.com/us/threat-insight/post/smominru-monero-mining-bo
  * 47Tscy1QuJn1fxHiBRjWFtgHmvqkW71YZCQL33LeunfH4rsGEHx5UGTPdfXNJtMMATMz8bmaykGVuDFGWP3KyufBSdzxBb2
  * 43Lm9q14s7GhMLpUsiXY3MH6G67Sn81B5DqmN46u8WnBXNvJmC6FwH3ZMwAmkEB1nHSrujgthFPQeQCFPCwwE7m7TpspYBd
 
-`$ python checker.py Smominru
+`
+$ python checker.py Smominru
 	**********************************************
 	***      Monero Pools Wallet Checker       ***
 	***      Emilien Le Jamtel - CERT-EU       ***
