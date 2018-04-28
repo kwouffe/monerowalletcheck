@@ -3,9 +3,10 @@ Monero Wallet address checker against popular pools.
 
 # description
 Python scripts to test if a Monero Wallet Address has been used to mine on popular pools.
-Now split into 2 scripts:
+Now split into 3 scripts:
  - checker.py for grabbing data and generating json output_account
  - parser.py to analyse the output of checker.py
+ - poolupdate.py to update the list of minig pool
 
 list of address are stored in `wallets.json` and list of pools are stored in `pools.json`
 
